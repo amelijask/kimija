@@ -43,3 +43,6 @@ img {
     border-radius: 10px;  /* ja gribi, var pievienot noapaļotus stūrus */
     box-shadow: 0 0 10px rgba(0,0,0,0.1); /* viegls ēnojums */
 }
+h1 {
+    color: #eaff73; /* Šeit ieraksti krāsas nosaukumu vai kodu */
+}

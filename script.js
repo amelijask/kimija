@@ -19,7 +19,7 @@ function showInfo(ingredient) {
         image = "TiO.png";
     }
     else if (ingredient === "ūdens") {
-        text = "Kalpo kā galvenais polārais šķīdinātājs, kurā tiek izkliedētas visas pārējās produkta sastāvdaļas.";
+        text = "Ūdens (H2O): Šis ir galvenais krēma pamats jeb polārais šķīdinātājs, kurā tiek izkliedētas visas pārējās sastāvdaļas, un tā V-veida molekulas forma rada izteiktu polaritāti, kas ļauj veidot ūdeņraža saites ar citām vielām (piemēram, glicerīnu). Lai gan pats ūdens ir videi pilnīgi drošs, kosmētikas ražošana patērē milzīgus dzeramā ūdens resursus, kas padara tā ilgtspējīgu izmantošanu par svarīgu ekoloģisku jautājumu.";
         image = "udens.png";
     }
     else if (ingredient === "glicerīns") {

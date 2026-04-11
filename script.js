@@ -51,7 +51,7 @@ function showInfo(ingredient) {
                         image = "oktinoksāts.gif";
     }
     else if (ingredient === "Meksorils") {
-        text = "Meksorils (C₂₈H₃₄O₈S₂): Moderns un fotostabils filtrs ar sulfogrupām (-SO3H), kas padara to šķīstošu ūdenī un efektīvi pasargā ādu no fotonovecošanās, vienlaikus būdams videi drošāka alternatīva.";
+        text = "Meksorils (C₂₈H₃₄O₈S₂): Moderns un fotostabils filtrs ar sulfogrupām (-SO₃H), kas padara to šķīstošu ūdenī un efektīvi pasargā ādu no fotonovecošanās, vienlaikus būdams videi drošāka alternatīva.";
                 image = "meksorils.png";
     }
 
